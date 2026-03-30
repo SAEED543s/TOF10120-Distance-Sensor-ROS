@@ -1,0 +1,38 @@
+[0.010s] Invoking command in '/home/saeed-ismail/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/saeed-ismail/ros2_ws/build/cpp_pubsub -- -j8 -l8
+[0.043s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.411s] -- Found rclcpp: 28.1.16 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.487s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.509s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.528s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.549s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.638s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.641s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.724s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.814s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[0.959s] -- Configuring done (0.9s)
+[0.975s] -- Generating done (0.0s)
+[0.983s] -- Build files have been written to: /home/saeed-ismail/ros2_ws/build/cpp_pubsub
+[1.044s] [ 50%] [32mBuilding CXX object CMakeFiles/distance_runner.dir/src/distance_publisher.cpp.o[0m
+[5.772s] [100%] [32m[1mLinking CXX executable distance_runner[0m
+[6.002s] [100%] Built target distance_runner
+[6.012s] Invoked command in '/home/saeed-ismail/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/saeed-ismail/ros2_ws/build/cpp_pubsub -- -j8 -l8
+[6.026s] Invoking command in '/home/saeed-ismail/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/saeed-ismail/ros2_ws/build/cpp_pubsub
+[6.039s] -- Install configuration: ""
+[6.039s] -- Installing: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/distance_runner
+[6.041s] -- Set non-toolchain portion of runtime path of "/home/saeed-ismail/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/distance_runner" to ""
+[6.041s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[6.041s] -- Installing: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[6.042s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[6.042s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[6.042s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[6.042s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[6.042s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[6.043s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[6.043s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[6.043s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[6.043s] -- Installing: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[6.043s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[6.043s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[6.044s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[6.044s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[6.045s] Invoked command in '/home/saeed-ismail/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/saeed-ismail/ros2_ws/build/cpp_pubsub

@@ -1,0 +1,11 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/distance_runner.dir/src/distance_publisher.cpp.o[0m
+[01m[K/home/saeed-ismail/ros2_ws/src/cpp_pubsub/src/distance_publisher.cpp:2:30:[m[K [01;35m[Kwarning: [m[Kextra tokens at end of #include directive
+    2 | #include <functional>include [01;35m[K<memory>[m[K
+      |                              [01;35m[K^~~~~~~~[m[K
+[01m[K/home/saeed-ismail/ros2_ws/src/cpp_pubsub/src/distance_publisher.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kfunctional>includ: No such file or directory
+    2 | #include [01;31m[K<functional>include[m[K <memory>
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/distance_runner.dir/build.make:76: CMakeFiles/distance_runner.dir/src/distance_publisher.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/distance_runner.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

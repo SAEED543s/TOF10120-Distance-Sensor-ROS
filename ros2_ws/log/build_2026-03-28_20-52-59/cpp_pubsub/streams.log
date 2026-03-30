@@ -1,0 +1,25 @@
+[0.007s] Invoking command in '/home/saeed-ismail/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/saeed-ismail/ros2_ws/build/cpp_pubsub -- -j8 -l8
+[0.046s] [ 50%] [32mBuilding CXX object CMakeFiles/distance_runner.dir/src/distance_publisher.cpp.o[0m
+[2.793s] [100%] [32m[1mLinking CXX executable distance_runner[0m
+[2.894s] [100%] Built target distance_runner
+[2.904s] Invoked command in '/home/saeed-ismail/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/saeed-ismail/ros2_ws/build/cpp_pubsub -- -j8 -l8
+[2.911s] Invoking command in '/home/saeed-ismail/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/saeed-ismail/ros2_ws/build/cpp_pubsub
+[2.916s] -- Install configuration: ""
+[2.916s] -- Installing: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/distance_runner
+[2.917s] -- Set non-toolchain portion of runtime path of "/home/saeed-ismail/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/distance_runner" to ""
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[2.917s] -- Installing: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[2.917s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[2.918s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[2.918s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[2.918s] -- Up-to-date: /home/saeed-ismail/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[2.918s] Invoked command in '/home/saeed-ismail/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/saeed-ismail/ros2_ws/build/cpp_pubsub
